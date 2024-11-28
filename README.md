@@ -9,6 +9,7 @@ In this repository, you'll find various indicators developed to be fast and intu
 - **Dragon Trend Indicator.mq4**: An indicator that identifies market trends using a robust approach based on the Dragon method.
 - **MA Distance Finder.mq4**: A tool to calculate the distance between the current price and the selected moving average, providing valuable info for risk management.
 - **Simple 3MA Visualization.mq4**: Simple visualization of three moving averages to identify crossovers and key reversal points.
+- **ProjectX.mq4**: An innovative indicator that identifies market trends by analyzing the relative positions of moving averages calculated from high, low, and close prices. It displays the current trend direction directly on the chart and provides a control panel for enhanced visualization.
 - **Utils.mqh**: Utility function library that helps in the development and simplifies the creation of new indicators.
 
 ## 🚀 How to Use
